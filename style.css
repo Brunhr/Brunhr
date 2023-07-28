@@ -15,3 +15,20 @@ header {
   padding: 24px 0;
     font-size:24px;
 }
+.escola{
+    background-image: linear-gradient (#1E90FF,#00BFFF);
+    color:black;
+    display:flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola-imagem{
+    width:25%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
