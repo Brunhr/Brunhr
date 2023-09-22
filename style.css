@@ -32,3 +32,13 @@ header {
 .escola-titulo{
     padding: 24px 0;
 }
+body{
+    font-family:'Poppins'Verdana, Geneva, Tahoma, sans-serif
+}
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-div{
+    text-align: center;
+}
