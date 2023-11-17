@@ -1,8 +1,8 @@
 *{margin:0 ;
     padding: 0;}
    .cabecario {
-    background-color:#FFC125;
-      color:black;
+    background-color:hsl(22, 61%, 64%);
+      color:hsl(330, 74%, 41%);
       display:flex;
      justify-content: space-around;
      padding: 24px 0;}
@@ -13,12 +13,12 @@
     font-size:24px;
 }
 .escola{
-    background-image: linear-gradient (#1E90FF,#00BFFF);
-    color:black;
+    background-image: linear-gradient (hsl(210, 100%, 56%),#00BFFF);
+    color:hsl(22, 61%, 64%);
     display:flex;
 }
 .escola-conteudo{
-    width: 35%;
+    width: 50%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -28,8 +28,8 @@
 }
 .escola-titulo{
     
-        background-color:#BA55D3;
-         color: hotpink;
+        background-color:hsl(22, 61%, 64%);
+         color: rgb(50, 51, 48);
      
     }
     
